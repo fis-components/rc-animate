@@ -1,8 +1,0 @@
-{
-    "repos": "http://github.com/react-component/animate.git",
-    "description": "css-transition ui component for react",
-    "version": "2.0.2",
-    "tag": "master",
-    "name": "rc-animate",
-    "main": "lib/index.js"
-}
