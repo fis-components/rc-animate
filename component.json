@@ -5,6 +5,8 @@
     "main": "./lib/index",
     "tag": "master",
     "reposType": "npm",
-    "dependencies": {},
-    "version": "1.2.6"
+    "dependencies": {
+        "css-animation": "1.x"
+    },
+    "version": "1.2.7"
 }
